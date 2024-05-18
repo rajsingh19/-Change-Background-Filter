@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "BG",
+  "identifier": "texture:45376-d001a9f6-4bd7-48b4-8984-1b8d8e7f98f8",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "3c1dd01fe2995d26bc2a61a320a94af0",
+  "assetLocator": "textures/BG.jpeg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 405,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 405,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "3c1dd01fe2995d26bc2a61a320a94af0",
+      "colorCount": 119100,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 16.40552279010511,
+      "pixelsHigh": 405,
+      "pixelsWide": 405
+    }
+  ]
+}
